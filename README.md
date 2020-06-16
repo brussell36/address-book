@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Address Book_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _User can input new contacts with first names, last names and phone numbers. , 6/15/2020_
 
 #### By _**Ben Russell**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This app will take user input of names and phone numbers and save them. The user will then be able to show them and delete them at will._
 
 ## Setup/Installation Requirements
 
@@ -26,7 +26,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs. Please contact me if you find some._
 
 ## Support and contact details
 
@@ -34,10 +34,10 @@ _If you have any issues or questions and concerns, please contact me at benjamin
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
-*_Bootstrap_
-*_jQuery_
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _jQuery_
 
 ### License
 
